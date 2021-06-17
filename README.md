@@ -1,4 +1,5 @@
-# StoreFront
+![storefront](https://user-images.githubusercontent.com/56200997/122428279-c7735800-cf5f-11eb-914e-bb4629398c4e.png)
+
 Storefront is a mobile app that allows shoppers to easily find the shortest path between products they are looking for in stores, and store owners the ability to easily add their product selection to the store layout for customers to search! This minimizes the risk of exposure to COVID for both shoppers and store owners, while also saving them time and money.
 
 This project made use of a number of **Firebase** services, including: <br>
