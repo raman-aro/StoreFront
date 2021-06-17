@@ -10,7 +10,7 @@ This project was implemented using the following **Firebase** services: <br>
 
 Please watch the demo below which also provides an in-depth explanation for how this was implemented:
 
+## Demo
 [![StoreFront Demo](http://img.youtube.com/vi/T1N5sZI_OZ4/0.jpg)](https://www.youtube.com/watch?v=T1N5sZI_OZ4)
-<br>
-https://www.youtube.com/watch?v=T1N5sZI_OZ4
-# StoreFront
+<br>https://www.youtube.com/watch?v=TuHlVirlkd8&feature=youtu.be
+
