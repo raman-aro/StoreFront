@@ -13,5 +13,5 @@ Please watch the video below which also provides an in-depth explanation of the 
 https://www.youtube.com/watch?v=TuHlVirlkd8&feature=youtu.be
 <br>
 <br>
-[![StoreFront Demo](http://img.youtube.com/vi/T1N5sZI_OZ4/0.jpg)](https://www.youtube.com/watch?v=T1N5sZI_OZ4)
+[![StoreFront Demo](http://img.youtube.com/vi/T1N5sZI_OZ4/0.jpg)](https://www.youtube.com/watch?v=TuHlVirlkd8&feature=youtu.be)
 
