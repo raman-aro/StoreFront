@@ -8,7 +8,7 @@ This project made use of a number of **Firebase** services, including: <br>
 * **Storage** for storing the images of the products the owner adds - the image URL is then stored in the Firestore db as an attribute of the product associated with it
 * **Firestore** for storing the store information per owner (this includes store layout and all product information ie. location, quantity, image URL, name, etc)
 
-Please watch the video below which also provides an in-depth explanation of the application and its features:
+Please watch the video below for a demo and in-depth explanation of the application and its features:
 
 ## Video Demonstration
 https://www.youtube.com/watch?v=TuHlVirlkd8&feature=youtu.be
